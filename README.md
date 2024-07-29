@@ -122,5 +122,6 @@ void loop() {
 
 ![photo_2024-07-29_05-21-20](https://github.com/user-attachments/assets/db0f6608-38b8-443b-8aab-e9c4fb1e627e)
 
+![image](https://github.com/user-attachments/assets/9defe26b-8071-4526-a37d-2e10482f5cdc)
 
 ![photo_2024-07-29_05-16-06](https://github.com/user-attachments/assets/9b7f9184-acdf-4ddd-9aee-ca2231a5cb76)
